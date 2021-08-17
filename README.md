@@ -1,4 +1,5 @@
 <h1>Rainbow Monke Mod</h1>
+<h2>Original creator is Ernest326 on github and discord</h2>
 <p>This is a mod for gorilla tag which can be run using <a href="https://github.com/DeadlyKitten/MonkeModManager/releases/tag/v1.2.0">Monke Mod Manager</a></p>
 <h1>Instructions</h1>
 <ol>
