@@ -11,9 +11,3 @@
 <li>The mod only works in Private Lobbies, and other players can see your rainbow skin</li>
 <li>If you have the cosmetics mod installed, you won't be able to see your own rainbow skin</li>
 </ul>
-<h2>Other stuff</h2>
-<ul>
-<li>This mod also has settings such as <code>Cycle Speed</code>, <code>Random Colour</code> and <code>Brightness</code></li>
-<li>These settings can be found in the config file at <code>BepInEx\config\RainbowMonke.cfg</code></li>
-  <li>The mod can also be <code>Disabled/Enabled</code> in the config</li>
-</ul>
